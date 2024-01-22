@@ -10,8 +10,13 @@ website:
   favicon: images/favicon.ico
   
   page-footer:
-    right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; CC-1.0-Jon Puritz and URI BES Program"
+    right: [![](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URI%20Brandmark%20282.png){fig-alt="Think Big" width=65px}](https:/uri.edu)    
+    left: [![](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URI%20Logo%20282.png){fig-alt="URI" width=65px}](https:/uri.edu) 
+    center: "&copy; CC-1.0-Jon Puritz and URI BES Program"
+
+https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URI%20Brandmark%20282.png
+
+
   
   sidebar:
     background: "#D9E3E4"
