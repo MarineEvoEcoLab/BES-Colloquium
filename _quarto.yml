@@ -10,7 +10,7 @@ website:
   favicon: images/favicon.ico
   
   page-footer:
-    right: [![](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URILogo.png){fig-alt="Think Big" width=65px}](https:/uri.edu)    
+    right: [![](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URILogo.png){fig-alt="ThinkBig" width=65px}](https:/uri.edu)    
     left: [![](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/URIBrandmark.png){fig-alt="URI" width=65px}](https:/uri.edu) 
     center: "&copy; CC-1.0-Jon Puritz and URI BES Program"
 
