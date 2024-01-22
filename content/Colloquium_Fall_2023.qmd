@@ -5,7 +5,7 @@ repo-actions: false
 
 ## Previous Colloquium Schedule 
 
-### This is no longer current!  Current Schedule is [here](index.qmd)
+### This is no longer current!  Current Schedule is [here](/index.qmd)
 
 
 | Date       | Speaker                  | Speaker's Affiliation                           | Speaker's Website                                                     | Talk Title                                                                                                                                           |
