@@ -1,5 +1,6 @@
 ---
 title: Colloquium Fall 2023
+repo-actions: false
 ---
 
 | Date       | Speaker                  | Speaker's Affiliation                           | Speaker's Website                                                     | Talk Title                                                                                                                                           |
@@ -20,3 +21,6 @@ title: Colloquium Fall 2023
 
 
 : Fall 2023 {.striped .hover}
+
+
+
