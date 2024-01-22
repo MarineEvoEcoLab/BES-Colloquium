@@ -3,6 +3,11 @@ title: Colloquium Fall 2023
 repo-actions: false
 ---
 
+## Previous Colloquium Schedule 
+
+### This is no longer current!  Current Schedule is [here](index.qmd)
+
+
 | Date       | Speaker                  | Speaker's Affiliation                           | Speaker's Website                                                     | Talk Title                                                                                                                                           |
 |------------|--------------------------|------------------------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sep. 15th  | BES Grad Reps            | URI                                            | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/)             | Orientation & Welcome BBQ                                                                                                                           |
