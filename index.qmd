@@ -1,6 +1,6 @@
 ---
-title: "University of Rhode Island Biological and Environmental Sciences"
-subtitle: "Colloquium Series"
+subtitle: "University of Rhode Island"
+title: "Biological and Environmental Sciences Colloquium Series"
 page-layout: full
 ---
 

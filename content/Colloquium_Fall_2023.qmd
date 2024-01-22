@@ -3,9 +3,9 @@ title: Colloquium Fall 2023
 repo-actions: false
 ---
 
-## Previous Colloquium Schedule 
+### Previous Colloquium Schedule for Fall 2023
 
-### This is no longer current!  Current Schedule is [here](/index.qmd)
+Current Schedule is [here](/index.qmd)
 
 
 | Date       | Speaker                  | Speaker's Affiliation                           | Speaker's Website                                                     | Talk Title                                                                                                                                           |
