@@ -11,21 +11,21 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 **Time:** 3:00 PM
 **Location:** CBLS 010
 
-| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Speaker's Website                                    |
-|-------|----------------|--------------------------|-----------------------------------------------|---------------------------------------------|
-| Jan 26| all            | BES Grad Reps            | URI                                           | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/)           |
-| Feb 2 | EMB            | Dr. Yaamini Venkataraman | WHOI                                          | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/)         |
-| Feb 9 | CMB            | Michael Metzger          | Pacific Northwest Research Institute           | [Michael Metzger](https://pnri.org/metzger-lab/)                        |
-| Feb 16| Education       | Dr. Angela Google         | URI                                           | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) |
-| Feb 23| SAFS           | Benton Taylor             | Harvard                                       | [Benton Taylor](https://taylorlab.oeb.harvard.edu/)                     |
-| Mar 1 | EVES           | Dr. James Heiss           | UMASS Lowell                                  | [James Heiss](https://www.jamesheiss.com/)                                                                        |
-| Mar 8 | CMB            | Concetta DiPace           | Oxford Nanopore Technologies                  | [Concetta DiPace](https://www.linkedin.com/in/concetta-dipace-phd-20384525/) |
-| Mar 22|                |                           |                                               |                                                                         |
-| Mar 29|                |                           |                                               |                                                                         |
-| Apr 5 | EES            | Dr. Kevin Olival          | EcoHealth Alliance                            | [Dr. Kevin Olival](https://www.ecohealthalliance.org/personnel/dr-kevin-olival) |
-| Apr 12|                |                           |                                               |                                                                         |
-| Apr 19| SAFS           | Dr. Ray Kaplan            | SGU                                           | [Dr. Ray Kaplan](https://www.sgu.edu/research/sgu-research/ray-m-kaplan-dvm-phd-dacvm-devpc/) |
-| Apr 26| EMB            | Dr. Katie McFarland        | NOAA                                          | [Dr. Katie McFarland](https://www.fisheries.noaa.gov/contact/katie-mcfarland-phd) |
+| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Speaker's Website | Talk Title| 
+|-------|----------------|-----------|--------------|----------------|------------------------------------------|
+| Jan 26| all            | BES Grad Reps            | URI                                           | [LINK](https://web.uri.edu/cels/academics/bes/)           | Spring 2024 Welcome Event!|
+| Feb 2 | EMB            | Dr. Yaamini Venkataraman | WHOI                                          | [LINK](https://yaaminiv.github.io/about/)         | TBD|
+| Feb 9 | CMB            | Michael Metzger          | Pacific Northwest Research Institute           | [LINK](https://pnri.org/metzger-lab/)                        | TBD|
+| Feb 16| Education       | Dr. Angela Google         | URI                                           | [LINK](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) | TBD|
+| Feb 23| SAFS           | Benton Taylor             | Harvard                                       | [LINK](https://taylorlab.oeb.harvard.edu/)                     | TBD|
+| Mar 1 | EVES           | Dr. James Heiss           | UMASS Lowell                                  | [LINK](https://www.jamesheiss.com/)                            |TBD|
+| Mar 8 | CMB            | Concetta DiPace           | Oxford Nanopore Technologies                  | [LINK](https://www.linkedin.com/in/concetta-dipace-phd-20384525/) | TBD|
+| Mar 22|                |                           |                                               |                                                                         | TBD|
+| Mar 29|                |                           |                                               |                                                                         | TBD|
+| Apr 5 | EES            | Dr. Kevin Olival          | EcoHealth Alliance                            | [LINK](https://www.ecohealthalliance.org/personnel/dr-kevin-olival) | TBD|
+| Apr 12|                |                           |                                               |                                                                         | TBD|
+| Apr 19| SAFS           | Dr. Ray Kaplan            | SGU                                           | [LINK](https://www.sgu.edu/research/sgu-research/ray-m-kaplan-dvm-phd-dacvm-devpc/) | TBD|
+| Apr 26| EMB            | Dr. Katie McFarland        | NOAA                                          | [LINK](https://www.fisheries.noaa.gov/contact/katie-mcfarland-phd) | TBD|
 
 : Spring 2024 {.striped .hover}
 
