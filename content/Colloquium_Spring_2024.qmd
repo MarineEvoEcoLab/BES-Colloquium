@@ -9,7 +9,7 @@ title: Colloquium Spring 2024
 | Feb 9 | CMB            | Michael Metzger          | Pacific Northwest Research Institute           | [Michael Metzger](https://pnri.org/metzger-lab/)                        |
 | Feb 16| Education       | Dr. Angela Google         | URI                                           | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) |
 | Feb 23| SAFS           | Benton Taylor             | Harvard                                       | [Benton Taylor](https://taylorlab.oeb.harvard.edu/)                     |
-| Mar 1 | EVES           | Dr. James Heiss           | UMASS Lowell                                  |                                                                         |
+| Mar 1 | EVES           | Dr. James Heiss           | UMASS Lowell                                  | [James Heiss](https://www.jamesheiss.com/)                                                                        |
 | Mar 8 | CMB            | Concetta DiPace           | Oxford Nanopore Technologies                  | [Concetta DiPace](https://www.linkedin.com/in/concetta-dipace-phd-20384525/) |
 | Mar 22|                |                           |                                               |                                                                         |
 | Mar 29|                |                           |                                               |                                                                         |
