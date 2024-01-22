@@ -15,7 +15,7 @@ website:
   
   sidebar:
     background: "#D9E3E4"
-    logo: "https://github.com/MarineEvoEcoLab/BES-Colloquium/blob/ee7a8e8942382869b2239dfa5468b57aad853b69/content/IMG/BES_Logo.png"
+    logo: "https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo_small.png"
     favicon: images/favicon.ico
     pinned: true
     align: center
@@ -29,7 +29,7 @@ website:
 
     style: "docked"
     search: true
-    collapse-level: 1
+    collapse-level: 2
     contents:
       - href: index.qmd
         text: Home
