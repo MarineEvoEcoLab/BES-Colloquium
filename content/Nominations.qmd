@@ -1,0 +1,28 @@
+---
+title: Nomination Process
+repo-actions: false
+---
+
+## How to nominate a speaker
+
+### Philosophy
+Our nomination process helps to ensure equity and transparency in the speaker selection process and to ensure timely nominations and invitations.  
+
+::: {.callout-important}
+A reminder to faculty that nominations must be from students.  
+:::
+
+### Process
+Here are the steps in our nomination process for Fall 2024:
+
+1. Students submit nominations using this form:.  Nominations are due by April 14th, 2024
+2. Graduate Student Reps will rank nominations within each specialization
+3. Jon Puritz (EMB Coordinator and BES Colloquium Instructor) will make final nomination (and backup choices) by May 1, 2024 based on rankings and funding for speaker travel.
+
+::: {.callout-note}
+Specializations without nominations will forfeit their slots at this time.  Nominations do not carry over, so if yours wasn't selected last semester, please nominate again.
+:::
+
+All rankings and invitations will be posted in a spreadsheet open to the community.
+
+

@@ -42,6 +42,10 @@ website:
         contents:
         - href: content/Colloquium_Fall_2023.qmd
           text: "Fall 2023"
+      - href: content/Nominations.qmd
+        text: "Nomination Process"
+      - href: content/Hosting.qmd
+        text: "Hosting a speaker"
       
 
 format:
