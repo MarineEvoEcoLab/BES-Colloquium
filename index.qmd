@@ -27,7 +27,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Apr 19| SAFS           | [Dr. Ray Kaplan](https://www.sgu.edu/research/sgu-research/ray-m-kaplan-dvm-phd-dacvm-devpc/) | SGU                | TBD                          |
 | Apr 26| EMB            | [Dr. Katie McFarland](https://www.fisheries.noaa.gov/contact/katie-mcfarland-phd)      | NOAA                         | TBD                          |
 
-: Spring 2024 {.striped .hover}
+: Click the Speaker's Name for More Info {.striped .hover}
 
 
 ## Overview
