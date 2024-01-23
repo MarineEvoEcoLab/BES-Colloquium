@@ -58,6 +58,12 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+    grid:
+      margin-width: 150px
+      gutter-width: 0.50em
+
+
+
 
 
 filters:

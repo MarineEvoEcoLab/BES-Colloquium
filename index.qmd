@@ -27,7 +27,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Apr 19| SAFS           | [Dr. Ray Kaplan](https://www.sgu.edu/research/sgu-research/ray-m-kaplan-dvm-phd-dacvm-devpc/) | SGU                | TBD                          | [Elizabeth Kass](mailto:elizabeth_kass@uri.edu) |
 | Apr 26| EMB            | [Dr. Katie McFarland](https://www.fisheries.noaa.gov/contact/katie-mcfarland-phd)      | NOAA                         | TBD                          | [Megan Guidry](mailto:mguidry@uri.edu) |
 
-: Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[5,5,10,10,60,10]"}
+: Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
 
 
 ## Overview
