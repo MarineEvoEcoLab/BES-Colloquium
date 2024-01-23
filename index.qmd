@@ -11,12 +11,12 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 **Time:** 3:00 PM
 **Location:** CBLS 010
 
-| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | 
-|-------|-----|--------------------------|-------------------------------|----------------------------------------------------------|
-| Jan 26| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2024 Welcome Event!  |
-| Feb 2 | EMB            | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/) | WHOI                                          | TBD                          |
-| Feb 9 | CMB            | [Michael Metzger](https://pnri.org/metzger-lab/)             | Pacific Northwest Research Institute           | TBD                          |
-| Feb 16| All            | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) | URI                       | TBD                          |
+| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
+|-------|-----|--------------------------|-------------------------------|----------------------------------------------------------| -----|
+| Jan 26| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2024 Welcome Event!  | N/A
+| Feb 2 | EMB            | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/) | WHOI                                          | TBD                          | [Jill Ashey](mailto:jillashey@uri.edu)|
+| Feb 9 | CMB            | [Michael Metzger](https://pnri.org/metzger-lab/)             | Pacific Northwest Research Institute           | TBD                          | [Jaypee Samson] (mailto: samsonjaypee@uri.edu)] |
+| Feb 16| All            | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) | URI                       | TBD                          | [Angela Google](mailto:angela.google@uri.edu)
 | Feb 23| SAFS           | [Benton Taylor](https://taylorlab.oeb.harvard.edu/)             | Harvard                                       | TBD                          |
 | Mar 1 | EVES           | [Dr. James Heiss ](https://www.jamesheiss.com/)          | UMASS Lowell                                  | TBD                          |
 | Mar 8 | CMB            | [Concetta DiPace](https://www.linkedin.com/in/concetta-dipace-phd-20384525/) | Oxford Nanopore Technologies | TBD                          |
