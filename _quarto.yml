@@ -46,6 +46,8 @@ website:
         text: "Nomination Process"
       - href: content/Hosting.qmd
         text: "Hosting a speaker"
+      - href: content/Meeting.qmd
+        text: "How to meet with a speaker"
       
 
 format:
