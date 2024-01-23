@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://marineevoecolab.github.io/BES-Colloquium/index.html</loc>
-    <lastmod>2024-01-23T20:52:01.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://marineevoecolab.github.io/BES-Colloquium/content/Nominations.html</loc>
-    <lastmod>2024-01-23T20:52:00.939Z</lastmod>
-  </url>
-  <url>
     <loc>https://marineevoecolab.github.io/BES-Colloquium/content/Colloquium_Fall_2023.html</loc>
-    <lastmod>2024-01-23T20:52:00.191Z</lastmod>
+    <lastmod>2024-01-23T20:55:08.663Z</lastmod>
   </url>
   <url>
     <loc>https://marineevoecolab.github.io/BES-Colloquium/content/Hosting.html</loc>
-    <lastmod>2024-01-23T20:52:00.600Z</lastmod>
+    <lastmod>2024-01-23T20:55:08.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marineevoecolab.github.io/BES-Colloquium/index.html</loc>
+    <lastmod>2024-01-23T20:55:06.779Z</lastmod>
+  </url>
+  <url>
+    <loc>https://marineevoecolab.github.io/BES-Colloquium/content/Nominations.html</loc>
+    <lastmod>2024-01-23T20:55:07.659Z</lastmod>
   </url>
   <url>
     <loc>https://marineevoecolab.github.io/BES-Colloquium/content/Meeting.html</loc>
-    <lastmod>2024-01-23T20:52:01.258Z</lastmod>
+    <lastmod>2024-01-23T20:55:08.291Z</lastmod>
   </url>
 </urlset>
