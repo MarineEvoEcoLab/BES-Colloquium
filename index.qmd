@@ -14,7 +14,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |-------|-----|--------------------|----------------------|----------------------------------------------------------------------| -----|
 | Jan 26| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2024 Welcome Event!  | N/A
-| Feb 2 | EMB            | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/) | WHOI                                          | TBD                          | [Jill Ashey](mailto:jillashey@uri.edu)|
+| Feb 2 | EMB            | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/) | WHOI                                          | Investigating genomic and plastic contributions to thermal tolerance in a non-indigenous crab                         | [Jill Ashey](mailto:jillashey@uri.edu)|
 | Feb 9 | CMB            | [Dr. Michael Metzger](https://pnri.org/metzger-lab/)             | Pacific Northwest Research Institute           | TBD                          | [Jaypee Samson](mailto:samsonjaypee@uri.edu) |
 | Feb 16| All            | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) | URI                       | TBD                          | [Dr. Angela Google](mailto:angela.google@uri.edu) |
 | Feb 23| SAFS           | [Dr. Benton Taylor](https://taylorlab.oeb.harvard.edu/)             | Harvard                                       | TBD                          | [Camilo Villouta](mailto: camilo.villouta@uri.edu)|
