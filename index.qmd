@@ -6,26 +6,28 @@ page-layout: full
 
 The BES Colloquium Series is the research seminar series for the [College of Environmental Sciences](https://web.uri.edu/cels/) at the University of Rhode Island.  BES students nominate speakers from across several disciplines including: Cell and Molecular Biology (CMB), Ecology and Ecosystem Science (EES), Environmental and Earth Sciences (EVES), Evolution and Marine Biology (EMB), and Sustainable Agriculture and Food Systems (SAFS).  Invited speakers spend the day at URI visiting with faculty and graduate students.
 
-## Spring 2024 Schedule
+## Fall 2024 Schedule
 
 **Time:** 3:00 PM
 **Location:** CBLS 010
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
-|-------|-----|--------------------|----------------------|----------------------------------------------------------------------| -----|
-| Jan 26| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2024 Welcome Event!  | N/A
-| Feb 2 | EMB            | [Dr. Yaamini Venkataraman](https://yaaminiv.github.io/about/) | WHOI                                          | [Investigating genomic and plastic contributions to thermal tolerance in a non-indigenous crab](/content/IMG/YaaminiBESflyer.jpeg)                         | [Jill Ashey](mailto:jillashey@uri.edu)|
-| Feb 9 | CMB            | [Dr. Michael Metzger](https://pnri.org/metzger-lab/)             | Pacific Northwest Research Institute           | [Evolution of Contagious Cancers in Clams](/content/IMG/DrMetzger_SPRING2024_Colloquium_Flyer.pdf) ([Zoom Only](https://uri-edu.zoom.us/j/96980121744?pwd=Ym5MME9UbmVpckNuSnJ4eERqb1ZLUT09))                          | [Jaypee Samson](mailto:samsonjaypee@uri.edu) |
-| Feb 16| All            | [Dr. Angela Google](https://web.uri.edu/cels/2022-college-of-the-environment-and-life-sciences-new-faculty/) | URI                       | [Factors that Impact Science Identity Formation for Undergraduate and Graduate Students in Natural Sciences](/content/IMG/GoogleFlyer.png)  | [Dr. Angela Google](mailto:angela.google@uri.edu) |
-| Feb 23| SAFS           | [Dr. Benton Taylor](https://taylorlab.oeb.harvard.edu/)             | Harvard                                       | [Microbial mediation of forest function in a changing world](/content/IMG/2.23.png)                          | [Camilo Villouta](mailto: camilo.villouta@uri.edu)|
-| Mar 1 | EVES           | [Dr. James Heiss ](https://www.jamesheiss.com/)          | UMASS Lowell                                  | [Surface and subsurface hydrology along the coastal margin: controls of sea level rise, tides, and geology](/content/IMG/Heiss.pdf)                         | [Paige Aldenberg](mailto:paige.aldenberg@uri.edu)|
-| Mar 8 | CMB            | [Dr. Concetta DiPace](https://www.linkedin.com/in/concetta-dipace-phd-20384525/) | Oxford Nanopore Technologies | [Science in the field: Cultivating the next generation of scientists](/content/IMG/Concetta.pdf)                          | [Lia Bozza](mailto:lia.bozza@uri.edu)|
-| Mar 22|                |                           |                                               |                              | TBD                          | |
-| Mar 29| EMB/EES        | [Dr. Sarah Donelan](https://sarahdonelanphd.weebly.com/)                          |   UMass Dartmouth                                     | [Legacies of stress: eco-evolutionary consequences of transgenerational and carryover effects in marine systems](/content/IMG/Donelan.png)                     |  [Amy Zyck](mailto:amaelia_zyck@uri.edu)|
-| Apr 5 | EES            | [Dr. Kevin Olival](https://www.ecohealthalliance.org/personnel/dr-kevin-olival) | EcoHealth Alliance                    |  [Can we prevent pandemics using a One Health approach?](/content/IMG/April5_Colloquium.png)                          | [Chantal Sengsourinho](mailto:chantal.sengsourinho@uri.edu) |
-| Apr 12|  EMB/EES           | [Dr. Coline Caillon](https://www.linkedin.com/in/coline-caillon-07b699113/?originalSubdomain=fr)                          |  URI                                           | [Influence of food availability and quality on oyster physiological performance in a changing ocean](/content/IMG/Caillon.png)                                          | [Dr. Coline Caillon](mailto:coline.caillon@uri.edu)  |
-| Apr 19| SAFS           | [Dr. Ray Kaplan](https://www.sgu.edu/research/sgu-research/ray-m-kaplan-dvm-phd-dacvm-devpc/) | SGU                | [The Global Threat of Drug Resistance in Helminth Parasites: Is There a Sustainable Path for the Future?](/content/IMG/Kaplan.png)                          | [Elizabeth Kass](mailto:elizabeth_kass@uri.edu) |
-| Apr 26| EMB            | [Dr. Katie McFarland](https://www.fisheries.noaa.gov/contact/katie-mcfarland-phd)      | NOAA                         | [Wild scallop population resilience: Using mutli-generational studies to estimate robustness and adaptive potential to rapidly changing environmental conditions](/content/IMG/McFarland.pdf)                          | [Megan Guidry](mailto:mguidry@uri.edu) |
+|-------|-----|--------------------|----------------------|-------------------------------------------------------------------------|------|
+| Sep 06|                |                          |                                                |                              |      |
+| Sep 13|                |                          |                                                |                              |      |
+| Sep 20|                |                          |                                                |                              |      |
+| Sep 27|                |                          |                                                |                              |      |
+| Oct 04|                |                          |                                                |                              |      |
+| Oct 11|                |                          |                                                |                              |      |
+| Oct 18|                |                          |                                                |                              |      |
+| Oct 25|                |                          |                                                |                              |      |
+| Nov 01|                |                          |                                                |                              |      |
+| Nov 08|                |                          |                                                |                              |      |
+| Nov 15|                |                          |                                                |                              |      |
+| Nov 22|                |                          |                                                |                              |      |
+| Nov 29|                |      None                |     Thanksgiving Recess - Classes do not meet  |                              |      |
+| Dec 06|                |                          |                                                |                              |      |
+
 
 : Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
 
