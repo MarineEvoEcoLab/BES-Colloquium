@@ -13,9 +13,9 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |-------|-----|--------------------|----------------------|-------------------------------------------------------------------------|------|
-| Sep 06|                |                          |                                                |                              |      |
+| Sep 06| CELS           | Graduate representatives | URI CELS GRaduate Program                      | Welcome to URI CBLS Graduate Program |      |
 | Sep 13|                |                          |                                                |                              |      |
-| Sep 20|                |                          |                                                |                              |      |
+| Sep 20| CELS           | CELS Diversity Committee | URI CELS                                       |                              |      |
 | Sep 27|                |                          |                                                |                              |      |
 | Oct 04|                |                          |                                                |                              |      |
 | Oct 11|                |                          |                                                |                              |      |
