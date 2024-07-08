@@ -11,22 +11,22 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 **Time:** 3:00 PM
 **Location:** CBLS 010
 
-| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
-|-------|-----|--------------------|----------------------|-------------------------------------------------------------------------|------|
-| Sep 06| CELS           | Graduate representatives | URI CELS GRaduate Program                      | Welcome to URI CBLS Graduate Program |      |
-| Sep 13|                |                          |                                                |                              |      |
-| Sep 20| CELS           | CELS Diversity Committee | URI CELS                                       |                              |      |
-| Sep 27|                |                          |                                                |                              |      |
-| Oct 04|                |                          |                                                |                              |      |
-| Oct 11|                |                          |                                                |                              |      |
-| Oct 18|                |                          |                                                |                              |      |
-| Oct 25|                |                          |                                                |                              |      |
-| Nov 01|                |                          |                                                |                              |      |
-| Nov 08|                |                          |                                                |                              |      |
-| Nov 15|                |                          |                                                |                              |      |
-| Nov 22|                |                          |                                                |                              |      |
-| Nov 29|                |      None                |     Thanksgiving Recess                        |        Classes do not meet   |      |
-| Dec 06|                |                          |                                                |                              |      |
+| Date  | Specialization | Speaker                  | Speaker's Affiliation      | Speaker's Website                        | Talk Title                   | Host |
+|-------|----------------|--------------------------|----------------------------|------------------------------------------|------------------------------|------|
+| Sep 06| CELS           | Graduate representatives | URI                        | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | Orientation and Welcome BBQ |      |
+| Sep 13|                |                          |                            |                                          |                              |      |
+| Sep 20| CELS           | CELS Diversity Committee | URI CELS                   |                                          |                              |      |
+| Sep 27|                |                          |                            |                                          |                              |      |
+| Oct 04|                |                          |                            |                                          |                              |      |
+| Oct 11|                |                          |                            |                                          |                              |      |
+| Oct 18|                |                          |                            |                                          |                              |      |
+| Oct 25|                |                          |                            |                                          |                              |      |
+| Nov 01|                |                          |                            |                                          |                              |      |
+| Nov 08|                |                          |                            |                                          |                              |      |
+| Nov 15|                |                          |                            |                                          |                              |      |
+| Nov 22|                |                          |                            |                                          |                              |      |
+| Nov 29|                |      None                |     Thanksgiving Recess    |                                          |        Classes do not meet   |      |
+| Dec 06|                |                          |                            |                                          |                              |      |
 
 
 : Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
