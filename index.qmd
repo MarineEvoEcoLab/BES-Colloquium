@@ -14,20 +14,20 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Date  | Specialization | Speaker                  | Speaker's Affiliation      | Speaker's Website                        | Talk Title                   | Host |
 |-------|----------------|--------------------------|----------------------------|------------------------------------------|------------------------------|------|
 | Sep 03| CELS           | URI CELS Retreat         | URI                        |                                          | URI CELS Annual Grad Program Retreat |     |
-| Sep 06| CELS           | Graduate representatives | URI                        | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | Orientation  |      |
-| Sep 13|                |                          |                            |                                          |                              |      |
+| Sep 06| CELS           | Angela Google & Kathleen Carroll | URI                | https://connectivityandconservation.com/ | Preparing for Graduate School |      |
+| Sep 13| CELS           | Grad Reps                | URI CELS                   | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | Introductions|      |
 | Sep 20| CELS           | CELS Diversity Committee | URI CELS                   |                                          |                              |      |
-| Sep 27|                |                          |                            |                                          |                              |      |
-| Oct 04|                |                          |                            |                                          |                              |      |
+| Sep 27| SAFS           | Dr. Thomas Delomas       | USDA ARS NCWAC             | https://www.ars.usda.gov/research/publications/publication/?seqNo115=396340 |  Breeding a better oyster in the genomic era | Marta Gomez-Chiarri |
+| Oct 04| CELS           | Carrol                   |                            |                                          |  Career Panel                |      |
 | Oct 11|                |                          |                            |                                          |                              |      |
 | Oct 18|                |                          |                            |                                          |                              |      |
-| Oct 25|                |                          |                            |                                          |                              |      |
-| Nov 01|                |                          |                            |                                          |                              |      |
-| Nov 08|                |                          |                            |                                          |                              |      |
-| Nov 15|                |                          |                            |                                          |                              |      |
-| Nov 22|                |                          |                            |                                          |                              |      |
+| Oct 25| EMB            | Dr. Chris Hollenbeck     | Texas A&M                  | https://www.marinegenomicslab.tamucc.edu/christopher-hollenbeck |       | Jacob Green |
+| Nov 01| SAFS           | Dr. John Quinn           | Furman University          | https://johnquinniv.wixsite.com/johnquinniv |                           | Calla Pederson  |
+| Nov 08| EVES           | Dr. Sara Yeo             | University of Uta          | https://stemap.org/                      |  The Science of (Funny) Science Communication    | Amirali Momeni |
+| Nov 15| EVES           | Dr. Christina Verhagen   | Montclair University       | https://eps.rutgers.edu/people/graduate-students/graduate-student/774-christina-verhagen     | Exploring Unique Hydrothermal Environments for Tracers of Ancient Life | Roger Hart |
+| Nov 22| EES            | Dr. Nathan Senner        | UMass Amherst              | http://www.sennerlab.com/                |                              |      |
 | Nov 29|                |      None                |     Thanksgiving Recess    |                                          |        Classes do not meet   |      |
-| Dec 06|                |                          |                            |                                          |                              |      |
+| Dec 06| EES            | Dr. Jennifer Thaler      | Cornell University         | https://cals.cornell.edu/jennifer-s-thaler |                              | Katie Overstrum |
 
 
 : Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
