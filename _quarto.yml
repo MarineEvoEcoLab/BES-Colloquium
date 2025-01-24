@@ -44,6 +44,8 @@ website:
           text: "Fall 2023"
         - href: content/Colloquium_Spring_2024.qmd
           text: "Spring 2024"
+        - href: content/Colloquium_Fall_2024.qmd
+          text: "Fall 2024"
       - href: content/Nominations.qmd
         text: "Nomination Process"
       - href: content/Hosting.qmd
