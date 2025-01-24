@@ -1,0 +1,36 @@
+---
+title: Colloquium Spring 2024
+repo-actions: false
+---
+
+### Previous Colloquium Schedule for Spring 2024
+
+Current Schedule is [here](/index.qmd)
+
+
+| Date  | Specialization | Speaker                  | Speaker's Affiliation      | Speaker's Website                        | Talk Title                   | Host |
+|-------|----------------|--------------------------|----------------------------|------------------------------------------|------------------------------|------|
+| Sep 03| CELS           | URI CELS Retreat         | URI                        |                                          | URI CELS Annual Grad Program Retreat |     |
+| Sep 06| CELS           | Angela Google & Kathleen Carroll | URI                | https://connectivityandconservation.com/ | Preparing for Graduate School |      |
+| Sep 13| CELS           | Grad Reps                | URI CELS                   | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | Introductions|      |
+| Sep 20| CELS           | CELS Diversity Committee | URI CELS                   |                                          |                              |      |
+| Sep 27| SAFS           | Dr. Thomas Delomas       | USDA ARS NCWAC             | https://www.ars.usda.gov/research/publications/publication/?seqNo115=396340 |  Breeding a better oyster in the genomic era | Marta Gomez-Chiarri |
+| Oct 04| CELS           | Carrol                   |                            |                                          |  Career Panel                |      |
+| Oct 11| CMB            | Dr. Claudia Fallini      | URI CELS CMB               | https://sites.google.com/view/cblsresearch/cels-research-labs/cell-and-molecular-biology/claudia-fallini-lab | Unraveling the Nexus: Cytoskeletal Forces, Nuclear Homeostasis, and Neurodegeneration. |      |
+| Oct 18| EMB            | Dr. Sam Gurr             | NOAA Milford Lab           | https://www.fisheries.noaa.gov/contact/sam-gurr-phd | Using multigenerational studies to estimate adaptive potential to rapidly changing environmental conditions | Amy Zyck |
+| Oct 25| EMB            | Dr. Chris Hollenbeck     | Texas A&M                  | https://www.marinegenomicslab.tamucc.edu/christopher-hollenbeck | Use of genomics for aquaculture and management of C. virginica in Texas | Jacob Green |
+| Nov 01| SAFS           | Dr. John Quinn           | Furman University          | https://johnquinniv.wixsite.com/johnquinniv |                           | Calla Pederson  |
+| Nov 08| EVES           | Dr. Sara Yeo             | University of Uta          | https://stemap.org/                      |  The Science of (Funny) Science Communication    | Amirali Momeni |
+| Nov 15| EVES           | Dr. Christina Verhagen   | Montclair University       | https://eps.rutgers.edu/people/graduate-students/graduate-student/774-christina-verhagen     | Exploring Unique Hydrothermal Environments for Tracers of Ancient Life | Roger Hart |
+| Nov 22| EES            | Dr. Nathan Senner        | UMass Amherst              | http://www.sennerlab.com/                |                              |      |
+| Nov 29|                |      None                |     Thanksgiving Recess    |                                          |        Classes do not meet   |      |
+| Dec 06| EES            | Dr. Jennifer Thaler      | Cornell University         | https://cals.cornell.edu/jennifer-s-thaler |                              | Katie Overstrum |
+
+
+: Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
+
+
+## Overview
+![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.png)
+The M.S. and Ph.D. in Biological and Environmental Sciences (BES) are interdisciplinary, interdepartmental graduate degrees with faculty from multiple departments in the College of the Environment and Life Sciences (CELS), including Biological Sciences; Cell and Molecular Biology; Fisheries, Animal and Veterinary Science; Geosciences; Natural Resources Science; Nutrition and Food Sciences; and Plant Sciences; as well as faculty from the Graduate School of Oceanography.
+
