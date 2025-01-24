@@ -1,9 +1,9 @@
 ---
-title: Colloquium Spring 2024
+title: Colloquium Fall 2024
 repo-actions: false
 ---
 
-### Previous Colloquium Schedule for Spring 2024
+### Previous Colloquium Schedule for Fall 2024
 
 Current Schedule is [here](/index.qmd)
 
@@ -27,10 +27,4 @@ Current Schedule is [here](/index.qmd)
 | Dec 06| EES            | Dr. Jennifer Thaler      | Cornell University         | https://cals.cornell.edu/jennifer-s-thaler |                              | Katie Overstrum |
 
 
-: Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
-
-
-## Overview
-![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.png)
-The M.S. and Ph.D. in Biological and Environmental Sciences (BES) are interdisciplinary, interdepartmental graduate degrees with faculty from multiple departments in the College of the Environment and Life Sciences (CELS), including Biological Sciences; Cell and Molecular Biology; Fisheries, Animal and Veterinary Science; Geosciences; Natural Resources Science; Nutrition and Food Sciences; and Plant Sciences; as well as faculty from the Graduate School of Oceanography.
-
+: Fall 2024 {.striped .hover}
