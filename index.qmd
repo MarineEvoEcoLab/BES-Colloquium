@@ -14,8 +14,8 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |-----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
 | Jan 31| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2025 Welcome Event!  | N/A
-| Feb 7 | EMB/EES            | [Dr. Johanna Harvey](https://jharvey.netlify.app/) | URI                                          |                    | [Johanna Harvey](mailto:j_harvey@uri.edu)|
-| Feb 14 | EVES           | [Dr. Patrick Sorensen](https://www.linkedin.com/in/posorensen/)             | URI        |      | [Patrick Sorensen](mailto:patrick.sorensen@uri.edu) |
+| Feb 7 | EMB/EES            | [Dr. Johanna Harvey](https://jharvey.netlify.app/) | URI                                          |                    | [Dr. Johanna Harvey](mailto:j_harvey@uri.edu)|
+| Feb 14 | EVES           | [Dr. Patrick Sorensen](https://www.linkedin.com/in/posorensen/)             | URI        |      | [Dr. Patrick Sorensen](mailto:patrick.sorensen@uri.edu) |
 | Feb 21| EES          | [Dr. Sarah Kienle](https://www.sarahskienle.com/) | URI                       |   | [Dr. Sarah Kienle](mailto:sarah.kienle@uri.edu) |
 | Feb 28| EMB          | [Dr. Andrew Griffith](https://www.ars.usda.gov/people-locations/person?person-id=60479)             | USDA-ARS                                       |                        | [Keegan Hart](mailto:keeganhart@uri.edu)|
 | Mar 7 | EVES           | [Dr. Margaret Capooci ](https://www.linkedin.com/in/mcapooci/)          | NSF              |                          | [Michael Norton](mailto:michael.norton@uri.edu)|
