@@ -26,7 +26,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Apr 18|  SAFS           | [Dr. Gustavo Oliveira](https://www.clarku.edu/faculty/profiles/gustavo-oliveira/)                          |  Clark University                                           |                                        | [Deniz Camli](mailto:deniz.camlisaunders@uri.edu)  |
 | Apr 25|        EMB    |  [Dr. Joan Bernhard](https://www2.whoi.edu/staff/jbernhard/)           |         WHOI                 | |[Madison Geraci](mailto:madison.geraci@uri.edu) |
 
-: Click the Speaker's Name for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
+: Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
 
 
 ## Overview
