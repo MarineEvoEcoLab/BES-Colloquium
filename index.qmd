@@ -15,8 +15,11 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 |-----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
 | Jan 31| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2025 Welcome Event!  | N/A
 | Feb 7 | EMB/EES            | [Dr. Johanna Harvey](https://jharvey.netlify.app/) | URI                                          | [Tending the flock: avian disease ecology and conservation](/content/IMG/Harvey_Feb7_URIColloquium.pdf)                   | [Dr. Johanna Harvey](mailto:j_harvey@uri.edu)|
-| Feb 14 | EVES           | [Dr. Patrick Sorensen](https://www.linkedin.com/in/posorensen/)             | URI        |      | [Dr. Patrick Sorensen](mailto:patrick.sorensen@uri.edu) |
-| Feb 21| EES          | [Dr. Sarah Kienle](https://www.sarahskienle.com/) | URI                       |   | [Dr. Sarah Kienle](mailto:sarah.kienle@uri.edu) |
+| Feb 14 | EVES           | [Dr. Patrick Sorensen](https://www.linkedin.com/in/posorensen/)             | URI        | [Connecting microbial ecology to soil biogeochemistry using multi-omic approaches](/content/IMG/Sorensen.pdf)     | [Dr. Patrick Sorensen](mailto:patrick.sorensen@uri.edu) |
+| Feb 21| EES          | [Dr. Sarah Kienle](https://www.sarahskienle.com/) | URI                       | [Examining the adaptive
+capacity of apex
+predators in a rapidly
+changing world](/content/IMG/Kienle.pdf)   | [Dr. Sarah Kienle](mailto:sarah.kienle@uri.edu) |
 | Feb 28| EMB          | [Dr. Andrew Griffith](https://www.ars.usda.gov/people-locations/person?person-id=60479)             | USDA-ARS                                       | Molecules to morphology: impacts of stress on marine shellfish.                        | [Keegan Hart](mailto:keeganhart@uri.edu)|
 | Mar 7 | EVES           | [Dr. Margaret Capooci ](https://www.linkedin.com/in/mcapooci/)          | NSF              |                          | [Michael Norton](mailto:michael.norton@uri.edu)|
 | Mar 21 | TBD            | TBD |  |                       ||
