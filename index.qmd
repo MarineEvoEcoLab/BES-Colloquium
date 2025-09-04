@@ -15,9 +15,9 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 |-----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
 |Sep 5 |     N/A        |  None   |     |  No talk because of BES Retreat           | N/A     |
 | Sep 12 |      All     |[URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2025 Welcome Event!  | N/A|
-| Sep 19 |      EES       |  [Dr. Amanda Rodewald](https://cals.cornell.edu/people/amanda-d-rodewald)       |   Cornell Lab of Ornithology              |       [The intersection of participatory science and evidence-based conservation.]           |  [Tori Mezebish Quinn](mailto:tmezebish@uri.edu)    |
-| Sep 26 |      EMB       | [Dr. Brad Wetherbee] (https://web.uri.edu/wetherbee-lab/)       |   URI                    |   TBA         |   [Brad Wetherbee](mailto:wetherbee@uri.edu)   |
-| Oct 3  |      EES       | [Dr. John Orrock] (https://orrocklab.zoology.wisc.edu/research/)       |  UW Madison                     |     TBA      |   [Katie Overstrum](mailto:katherine.overstrum@uri.edu)   |
+| Sep 19 |      EES       |  [Dr. Amanda Rodewald](https://cals.cornell.edu/people/amanda-d-rodewald)       |   Cornell Lab of Ornithology              |       [The intersection of participatory science and evidence-based conservation]()           |  [Tori Mezebish Quinn](mailto:tmezebish@uri.edu)    |
+| Sep 26 |      EMB       | [Dr. Brad Wetherbee](https://web.uri.edu/wetherbee-lab/)       |   URI                    |   TBA         |   [Brad Wetherbee](mailto:wetherbee@uri.edu)   |
+| Oct 3  |      EES       | [Dr. John Orrock](https://orrocklab.zoology.wisc.edu/research/)       |  UW Madison                     |     TBA      |   [Katie Overstrum](mailto:katherine.overstrum@uri.edu)   |
 | Oct 10 |      EMB       | [Dr. Hollie Putnam](https://putnamlab.com/)        |    URI                   |     TBA       |   [Hollie Putnam](mailto:hputnam@uri.edu)    |
 | Oct 17 |      SAFS      |[Dr. Li Zhang] (https://www.amherst.edu/people/facstaff/lzhang)        | Amherst College                       |      TBA      | [Sheriff Aliu](mailto:saliu@uri.edu)     |
 | Oct 24 |  EES/EMB       |[Dr. Serena Moseman-Valtierra](https://mosemanvaltierralab.weebly.com/)         |      URI                 |      TBA      |  [Serena Moseman-Valtierra](mailto:smoseman@uri.edu)    |
