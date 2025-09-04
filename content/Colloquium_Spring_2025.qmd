@@ -1,0 +1,31 @@
+---
+subtitle: "University of Rhode Island"
+title: "Biological and Environmental Sciences Colloquium Series"
+page-layout: full
+---
+
+### Previous Colloquium Schedule for Spring 2025
+
+Current Schedule is [here](/index.qmd)
+
+
+
+| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
+|-----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
+| Jan 31| All            | [URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI                                           | Spring 2025 Welcome Event!  | N/A
+| Feb 7 | EMB/EES            | [Dr. Johanna Harvey](https://jharvey.netlify.app/) | URI                                          | [Tending the flock: avian disease ecology and conservation](/content/IMG/Harvey_Feb7_URIColloquium.pdf)                   | [Dr. Johanna Harvey](mailto:j_harvey@uri.edu)|
+| Feb 14 | EVES           | [Dr. Patrick Sorensen](https://www.linkedin.com/in/posorensen/)             | URI        | [Connecting microbial ecology to soil biogeochemistry using multi-omic approaches](/content/IMG/Sorensen.pdf)     | [Dr. Patrick Sorensen](mailto:patrick.sorensen@uri.edu) |
+| Feb 21| EES          | [Dr. Diann Prosser](https://www.usgs.gov/staff-profiles/diann-prosser) | USGS-EESC                       | [On the wing: The changing dynamics of avian influenza (bird flu)](/content/IMG/ProsserFlyerColloquium.pdf)   | [Dr. Johanna Harvey](mailto:j_harvey@uri.edu) |
+| Feb 28| EES          | [Dr. Sarah Kienle](https://www.sarahskienle.com/) | URI                       | [Examining the adaptive capacity of apex predators in a rapidly changing world](/content/IMG/Kienle.pdf)   | [Dr. Sarah Kienle](mailto:sarah.kienle@uri.edu) |
+| Mar 7 | EVES           | [Dr. Margaret Capooci ](https://www.linkedin.com/in/mcapooci/)          | NSF              | [Patterns and Processes Governing CO2 and CH4 Emissions from Tidal Salt Marshes](/content/IMG/capooci.pdf)                         | [Michael Norton](mailto:michael.norton@uri.edu)|
+| Mar 21 | EMB            | [Dr. Lisa Komoroske](https://www.umass.edu/natural-sciences/about/directory/lisa-komoroske) | UMass Amherst |[Integrating across biological levels to understand risk and resilience to environmental change in marine species of conservation concern](/content/IMG/KOMOROSKE.pdf)                       | [Jon Puritz](mailto:jpuritz@uri.edu)|
+| Mar 28|  CMB              |    [Dr. Ahmed Abdelfattah](https://sites.brown.edu/abdelfattah/)                       |         Brown University                                                                  |[Lighting up the brain: Genetically encoded sensors for voltage imaging](/content/IMG/Abdelfattah.png)                           |[Kate Remy](mailto:kate_remy@uri.edu) |
+| Apr 4| EVES        | [Dr. Dhiman R. Mondal](https://www.haystack.mit.edu/researcher/dhiman-mondal/)                          |   MIT                           | [Improved Space and Polar Geodesy through Advanced Technology and Techniques](/content/IMG/Dhiman.pdf	)                 |  [Md Al Amin](mailto:alamin45@uri.edu)|
+| Apr 11 | EMB            | [Dr. Jennifer Pollack](https://www.harteresearch.org/research/coastal-conservation-restoration) | HRI TAMUCC         | [Oyster research, restoration, and support for resource management in Texas](/content/IMG/Pollack.pdf)                           | [Olivia Nieves](mailto:onieves@uri.edu) |
+| Apr 18|  SAFS           | [Dr. Gustavo Oliveira](https://www.clarku.edu/faculty/profiles/gustavo-oliveira/)                          |  Clark University                                           |       [Spaces of Contestation over Water Resources in an Irrigation Frontier in Brazil](/content/IMG/Oliveira Flyer.pdf)                                 | [Deniz Camli](mailto:deniz.camlisaunders@uri.edu)  |
+| Apr 25|        EMB    |  [Dr. Joan Bernhard](https://www2.whoi.edu/staff/jbernhard/)           |         WHOI                 |[The Chloroplast Conundrum: Role of sequestered plastids in benthic foraminifera living far below the photic zone](/content/IMG/Bernhard.pdf) |[Madison Geraci](mailto:madison.geraci@uri.edu) |
+
+: Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
+
+
+
