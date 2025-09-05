@@ -12,7 +12,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 **Location:** CBLS 010
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
-|-----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
+|----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
 |Sep 5 |     N/A        |  None   |     |  No talk because of BES Retreat           | N/A     |
 | Sep 12 |      All     |[URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2025 Welcome Event!  | N/A|
 | Sep 19 |      EES       |  [Dr. Amanda Rodewald](https://cals.cornell.edu/people/amanda-d-rodewald)       |   Cornell Lab of Ornithology              |       [The intersection of participatory science and evidence-based conservation]()           |  [Tori Mezebish Quinn](mailto:tmezebish@uri.edu)    |
