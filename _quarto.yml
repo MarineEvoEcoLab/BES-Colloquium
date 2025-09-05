@@ -38,6 +38,12 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/Nominations.qmd
+        text: "Nomination Process"
+      - href: content/Hosting.qmd
+        text: "Hosting a speaker"
+      - href: content/Meeting.qmd
+        text: "How to meet with a speaker"
       - section: "Previous Colloquiums"  
         contents:
         - href: content/Colloquium_Fall_2023.qmd
@@ -48,14 +54,7 @@ website:
           text: "Fall 2024"
         - href: content/Colloquium_Spring_2025.qmd
           text: "Spring 2025"
-      - href: content/Nominations.qmd
-        text: "Nomination Process"
-      - href: content/Hosting.qmd
-        text: "Hosting a speaker"
-      - href: content/Meeting.qmd
-        text: "How to meet with a speaker"
       
-
 format:
   html:
     theme:
