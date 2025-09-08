@@ -24,7 +24,7 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 | Oct 31 |       TBA         |         |                       |            |      |
 | Nov 7  |      EVES      | [Dr. Radley Horton](https://www.radleyhorton.com)           |      Columbia University               |    TBA       |  [Raquel Pauly](mailto:raquel.pauly@uri.edu)    |
 | Nov 14 |      EMB       | [Dr. Nichola Hill ](https://www.theviruspluslab.com/)        | UMass Boston                      |   TBA         | [Niel Bauer](mailto:niel.bauer@uri.edu)     |
-| Nov 21 |       TBA         |         |                       |            |      |
+| Nov 21 |       SAFS         | [Dr. Nicole Tillquist](https://www.linkedin.com/in/nicole-tillquist-055b4997/)        |     UConn                  |      TBA      | [Hannah Piracini](mailto:hannah_piracini@uri.edu)     |
 | Nov 28 |      N/A       |   N/A   |        N/A            | Thanksgiving Holiday        |      |
 | Dec 5  |      CMB       | [Dr. John Leong](https://facultyprofiles.tufts.edu/john-leong/about)        |    Tufts University                   |    TBA        |  [Ellen Madden](mailto:ellen_madden@uri.edu)|
 : Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
