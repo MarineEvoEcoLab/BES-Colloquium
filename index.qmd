@@ -6,7 +6,7 @@ page-layout: full
 
 The BES Colloquium Series is the research seminar series for the [College of Environmental Sciences](https://web.uri.edu/cels/) at the University of Rhode Island.  BES students nominate speakers from across several disciplines including: Cell and Molecular Biology (CMB), Ecology and Ecosystem Science (EES), Environmental and Earth Sciences (EVES), Evolution and Marine Biology (EMB), and Sustainable Agriculture and Food Systems (SAFS).  Invited speakers spend the day at URI visiting with faculty and graduate students.
 
-Seminars are intended for a general scientific audience, but are free and open to all.
+Seminars are intended for a general scientific audience but are free and open to all.
 
 ## Fall 2025 Schedule
 
