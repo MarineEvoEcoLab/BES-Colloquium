@@ -23,10 +23,10 @@ Seminars are intended for a general scientific audience but are free and open to
 | Oct 10 |      EMB       | [Dr. Hollie Putnam](https://putnamlab.com/)        |    URI                   |     TBA       |   [Dr. Hollie Putnam](mailto:hputnam@uri.edu)    |
 | Oct 17 |      SAFS      |[Dr. Li Zhang](https://www.amherst.edu/people/facstaff/lzhang)        | Amherst College                       |      [Defying Slow Death: Unsafe Food, Environmental Governance and Quiet Social Movement in China]()      | [Sheriff Aliu](mailto:saliu@uri.edu)     |
 | Oct 24 |  EES/EMB       |[Dr. Serena Moseman-Valtierra](https://mosemanvaltierralab.weebly.com/)         |      URI                 |      [Paths to Productivity: Possibilities for coastal wetlands, bivalves, and undergrads in large lectures]()    |  [Dr. Serena Moseman-Valtierra](mailto:smoseman@uri.edu)    |
-| Oct 31 |       TBA         |         |                       |            |      |
+| Oct 31 |       SAFS         | [Dr. Nicole Tillquist](https://www.linkedin.com/in/nicole-tillquist-055b4997/)        |     UConn                  |      TBA      | [Hannah Piracini](mailto:hannah_piracini@uri.edu)     |
 | Nov 7  |      EVES      | [Dr. Radley Horton](https://www.radleyhorton.com)           |      Columbia University               |    TBA       |  [Raquel Pauly](mailto:raquel.pauly@uri.edu)    |
 | Nov 14 |      EMB       | [Dr. Nichola Hill ](https://www.theviruspluslab.com/)        | UMass Boston                      |   TBA         | [Niel Bauer](mailto:niel.bauer@uri.edu)     |
-| Nov 21 |       SAFS         | [Dr. Nicole Tillquist](https://www.linkedin.com/in/nicole-tillquist-055b4997/)        |     UConn                  |      TBA      | [Hannah Piracini](mailto:hannah_piracini@uri.edu)     |
+| Nov 21 |       EMB         | [Dr. Kate Castellano](https://www.linkedin.com/in/kcastellano/)        |     UConn                  |      TBA      | [Dr. Jon Puritz](mailto:jpuritz@uri.edu)     |
 | Nov 28 |      N/A       |   N/A   |        N/A            | Thanksgiving Holiday        |      |
 | Dec 5  |      CMB       | [Dr. John Leong](https://facultyprofiles.tufts.edu/john-leong/about)        |    Tufts University                   |    TBA        |  [Ellen Madden](mailto:ellen_madden@uri.edu)|
 : Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
