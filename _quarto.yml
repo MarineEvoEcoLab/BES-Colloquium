@@ -58,8 +58,8 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, theme.scss] 
       dark: [cosmo, theme-dark.scss]
+      light: [cosmo, theme.scss] 
     html-math-method: plain
     code-overflow: wrap
     toc: true
