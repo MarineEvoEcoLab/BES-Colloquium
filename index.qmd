@@ -33,6 +33,6 @@ Seminars are intended for a general scientific audience but are free and open to
 
 
 ## Overview
-![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.png)
+![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.jpg)
 The M.S. and Ph.D. in Biological and Environmental Sciences (BES) are interdisciplinary, interdepartmental graduate degrees with faculty from multiple departments in the College of the Environment and Life Sciences (CELS), including Biological Sciences; Cell and Molecular Biology; Fisheries, Animal and Veterinary Science; Geosciences; Natural Resources Science; Nutrition and Food Sciences; and Plant Sciences; as well as faculty from the Graduate School of Oceanography.
 
