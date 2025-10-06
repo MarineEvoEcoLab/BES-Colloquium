@@ -10,7 +10,7 @@ Current Schedule is [here](/index.qmd)
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation      | Speaker's Website                        | Talk Title                   | Host |
 |-------|----------------|--------------------------|----------------------------|------------------------------------------|------------------------------|------|
-| Sep 03| CELS           | URI CELS Retreat         | URI                        |                                          | URI CELS Annual Grad Program Retreat |     |
+| Sep 03| CELS            | URI CELS Retreat         | URI                        |                                          | URI CELS Annual Grad Program Retreat |     |
 | Sep 06| CELS           | Angela Google & Kathleen Carroll | URI                | https://connectivityandconservation.com/ | Preparing for Graduate School |      |
 | Sep 13| CELS           | Grad Reps                | URI CELS                   | [BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | Introductions|      |
 | Sep 20| CELS           | CELS Diversity Committee | URI CELS                   |                                          |                              |      |
