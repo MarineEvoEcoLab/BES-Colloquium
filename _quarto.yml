@@ -60,7 +60,7 @@ format:
     theme:
       light: [cosmo, theme.scss] 
       dark: [cosmo, theme-dark.scss]
-    code-copy: true
+    html-math-method: plain
     code-overflow: wrap
     toc: true
     grid:
