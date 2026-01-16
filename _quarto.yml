@@ -54,6 +54,8 @@ website:
           text: "Fall 2024"
         - href: content/Colloquium_Spring_2025.qmd
           text: "Spring 2025"
+        - href: content/Colloquium_Fall_2025.qmd
+          text: "Fall 2025"
       
 format:
   html:

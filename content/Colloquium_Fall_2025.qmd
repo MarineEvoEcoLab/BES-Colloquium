@@ -1,0 +1,32 @@
+---
+subtitle: "University of Rhode Island"
+title: "Biological and Environmental Sciences Colloquium Series"
+page-layout: full
+---
+
+### Previous Colloquium Schedule for Fall 2025
+
+Current Schedule is [here](/index.qmd)
+| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
+|----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
+|Sep 5 |     N/A        |  None   |     |  No talk because of BES Retreat           | N/A     |
+| Sep 12 |      All     |[URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2025 Welcome Event!  | N/A|
+| Sep 19 |      EES     |[Dr. Amanda Rodewald](https://cals.cornell.edu/people/amanda-d-rodewald)       | Cornell Lab of Ornithology | [The intersection of participatory science and evidence-based conservation](/content/IMG/Rodewald.pdf)                          |  [Tori Mezebish Quinn](mailto:tmezebish@uri.edu)    |
+| Sep 26 |      EMB     |[Dr. Brad Wetherbee](https://web.uri.edu/wetherbee-lab/)                       | URI                        | [What can we learn from highly mobile marine fishes?](/content/IMG/Wetherbee.pdf)                                               |   [Dr. Brad Wetherbee](mailto:wetherbee@uri.edu)   |
+| Oct 3  |      EES     |[Dr. John Orrock](https://orrocklab.zoology.wisc.edu/research/)                | UW Madison                 | [Linking individual rodent behavior to zoonotic disease risk](/content/IMG/Orrock.pdf)                                          |   [Katie Overstrum](mailto:katherine.overstrum@uri.edu)   |
+| Oct 10 |      EMB     |[Dr. Hollie Putnam](https://putnamlab.com/)                                    | URI                        | [Acclimatory and adaptive responses to climate change in complex life history corals](/content/IMG/Putnam.pdf)                  |   [Dr. Hollie Putnam](mailto:hputnam@uri.edu)    |
+| Oct 17 |      SAFS    |[Dr. John Taylor](https://web.uri.edu/pse/meet/john-r-taylor/)                 | URI                        | [Planning and Designing Urban Agriculture Through the Lens of Agroecolgogy](https://www.researchgate.net/profile/John-Taylor-54)| [Sheriff Aliu](mailto:saliu@uri.edu)     |
+| Oct 24 |  EES/EMB     |[Dr. Serena Moseman-Valtierra](https://mosemanvaltierralab.weebly.com/)        | URI                        | [Paths to Productivity: Possibilities for coastal wetlands, bivalves, and undergrads in large lectures](/content/IMG/Moseman.pdf)                       |  [Dr. Serena Moseman-Valtierra](mailto:smoseman@uri.edu)    |
+| Oct 31 |       SAFS   |[Dr. Nicole Tillquist](https://www.linkedin.com/in/nicole-tillquist-055b4997/) | UConn                      | [Maternal Nutrient Restriction Modulates Histological, Epigenetic, and Microbiome Characteristics in the Ovine Fetal Intestine](/content/IMG/Tillquist.png)      | [Hannah Piracini](mailto:hannah_piracini@uri.edu)     |
+| Nov 7  |      EVES    |[Dr. Radley Horton](https://www.radleyhorton.com)                              | Columbia University        |   [Assessing coastal impacts of weather and climate extremes](/content/IMG/Horton.pdf)      |  [Raquel Pauly](mailto:raquel.pauly@uri.edu)    |
+| Nov 14 |      EMB     |[Dr. Nichola Hill ](https://www.theviruspluslab.com/)                          | UMass Boston               |   [The Flu-ture is Now: How Natural and Human Worlds Collide to Shape a Global Avian Influenza Outbreak](/content/IMG/Hill.pdf)      | [Niel Bauer](mailto:niel.bauer@uri.edu)     |
+| Nov 21 |       EMB    |[Dr. Kate Castellano](https://www.linkedin.com/in/kcastellano/)                | UConn                      |   [Unlocking Marine Genomes: Insights into Evolution and Development from Marine Invertebrates](/content/IMG/Castellano.pdf)     | [Dr. Jon Puritz](mailto:jpuritz@uri.edu)     |
+| Nov 28 |      N/A     |   N/A   |        N/A            | Thanksgiving Holiday        |      |
+| Dec 5  |      CMB     |[Dr. John Leong](https://facultyprofiles.tufts.edu/john-leong/about)           |   Tufts University                   | [Microbial tools to investigate age-driven defects in innate immune defense](/content/IMG/Leong.png)           |  [Ellen Madden](mailto:ellen_madden@uri.edu)|
+: Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
+
+
+## Overview
+![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.jpg)
+The M.S. and Ph.D. in Biological and Environmental Sciences (BES) are interdisciplinary, interdepartmental graduate degrees with faculty from multiple departments in the College of the Environment and Life Sciences (CELS), including Biological Sciences; Cell and Molecular Biology; Fisheries, Animal and Veterinary Science; Geosciences; Natural Resources Science; Nutrition and Food Sciences; and Plant Sciences; as well as faculty from the Graduate School of Oceanography.
+
