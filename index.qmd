@@ -15,8 +15,8 @@ Seminars are intended for a general scientific audience but are free and open to
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
-| Jan 23 |      All     |[URI BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2026 Welcome Event!  | N/A|
-| Jan 30 |      EMB     |[Dr. Amanda Alker](https://alkerlab.weebly.com/team.html) | URI  | [TBA]() | N/A|
+| Jan 23 |      All     |[BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2026 Welcome Event!  | N/A|
+| Jan 30 |      EMB/CMB     |[Dr. Amanda Alker](https://alkerlab.weebly.com/team.html) | URI  | [TBA]() | N/A|
 | Feb 6  |      EMB/CMB |[Dr. Laura Eme](https://emelaura.com/)       | URI | [The origin of complex life](/content/IMG/Eme.pdf)                          |  N/A  |
 | Feb 13 |      CMB     |[Dr. Rachel Spurbeck](https://acs.digitellinc.com/b/sp/rachel-spurbeck-159185)                       | Battelle Memorial Institute                        | [Exposure Health: Biosurveillance, Diagnostics and Therapeutics]()                                               |   [Maizy Pratt](mailto:maizy.pratt@uri.edu)   |
 | Feb 20 |      All     |[Dr. Leah Heilig](https://web.uri.edu/harrington/meet/leah-heilig/)                | URI               | [TBA]()                                          |   [Olivia Nieves](mailto:onieves@uri.edu)   |
