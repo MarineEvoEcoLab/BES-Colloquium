@@ -5,7 +5,7 @@ repo-actions: false
 
 ## How to meet with a visiting speaker
 
-The best way to meet with a speaker is to coordinate with the listed host in the agenda.  Alternatively, all speaker schedules are posted [here](https://docs.google.com/spreadsheets/d/1n4gp8plA0egxwAysn3a-c0fOu7RRl0jnZFpqEISqnNY/edit?usp=sharing). 
+The best way to meet with a speaker is to coordinate with the listed host in the agenda.  Alternatively, all speaker schedules are posted [here](https://docs.google.com/spreadsheets/d/12xPqyh2W4HHo3Czx-81G8Omc5mfWDq0gLzbsYTtLwHo/edit?usp=sharing). 
 
 ::: {.callout-note}
 If you are trying to schedule with a speaker several weeks out, please realize that the schedule listed may only be a placeholder and will be subject to the speaker's travel.  If unsure, just leave a note on the bottom indicating interest in meeting.
