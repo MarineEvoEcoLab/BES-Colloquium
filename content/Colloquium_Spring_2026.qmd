@@ -1,0 +1,33 @@
+---
+subtitle: "University of Rhode Island"
+title: "Biological and Environmental Sciences Colloquium Series"
+page-layout: full
+---
+
+### Previous Colloquium Schedule for Spring 2026
+
+Current Schedule is [here](/index.qmd)
+
+| Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
+|----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
+| Jan 23 |      All     |[BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2026 Welcome Event!  | N/A|
+| Jan 30 |      EMB/CMB |[Dr. Amanda Alker](https://alkerlab.weebly.com/team.html) | URI  | [A new frontier of genome editing technologies to elucidate marine bacteria-host interactions](/content/IMG/Alker.pdf) | N/A|
+| Feb 6  |      EMB/CMB |[Dr. Laura Eme](https://emelaura.com/)       | URI | [The origin of complex life](/content/IMG/Eme.pdf)                          |  N/A  |
+| Feb 13 |      CMB     |[Dr. Rachel Spurbeck](https://acs.digitellinc.com/b/sp/rachel-spurbeck-159185)                       | Battelle Memorial Institute                        | [Exposure Health: Biosurveillance, Diagnostics and Therapeutics](/content/IMG/Spurbeck.png)                                               |   [Maizy Pratt](mailto:maizy.pratt@uri.edu)   |
+| Feb 20 |      All     |[Dr. Leah Heilig](https://web.uri.edu/harrington/meet/leah-heilig/)                | URI               | [Embodiment and Positionality in Qualitative Work: Navigating Research Identity](/content/IMG/Heilig.png)                                          |   [Olivia Nieves](mailto:onieves@uri.edu)   |
+| Feb 27 |      TBA     |[Dr. Madison Armstrong](https://madisonarmstrong.me)   | Northeastern University                        | [Evolutionary Implications of Urbanization on a Coastal Marine Invertebrate](/content/IMG/Armstrong.pdf)                  |   [Dalia Bercow](mailto:dalia.bercow@uri.edu)    |
+| Mar 06 |      EVES    |[Dr. Karyn Rogers](https://faculty.rpi.edu/karyn-rogers)                 | Rensselaer Polytechnic Institute                      | [Constructing life from the ground up](/content/IMG/Rogers.jpg)| [Cybele Collins](mailto:crcollins@uri.edu)     |
+| Mar 13 |      EES     |[Dr. Frank Fish]( https://wcupa.edu/sciences-mathematics/biology/fFish/default.aspx)        | West Chester University                        | [Marine animals as a source of biological and technological innovation](/content/IMG/Fish.pdf)                       |  [Ariel Leahy](mailto:ariel.leahy@uri.edu)    |
+| Mar 20 |      NA    |   N/A |        N/A            | Spring Break        |      |
+| Mar 27 |      SAFS    |[Dr. Li Zhang](https://www.amherst.edu/people/facstaff/lzhang)                              | Amherst College        |   [Defying Slow Death: Unsafe Food, Environmental Governance and Quiet Social Movement in China](/content/IMG/Zhang.pdf)      |  [Sheriff Aliu](mailto:saliu@uri.edu)    |
+| Apr 3  |      EES     |[Dr. Tom Bell ](https://www.tomwbell.net/about.html)                          | WHOI               |   [Disentangling the effects of physical and demographic drivers on the dynamics of coastal foundation species](/content/IMG/Bell.pdf)      | [Maja Nielsen](mailto:maja.nielsen@uri.edu)     |
+| Apr 10 |      All     |[Dr. Dee Silverthorn](https://dellmed.utexas.edu/directory/dee-silverthorn)                | UT Austin                      |   [The importance of competency-based education](/content/IMG/Silverthorn.pdf)     | [Jamie Puleo](mailto:jamie_puleo@uri.edu)     |
+| Apr 17 |      EMB     |[Dr. Matthew Gray](https://science.umces.edu/graylab/)   |       UMCES Horn Point            | [Are brooding oysters ‘winners’ under climate change?](/content/IMG/Gray.pdf)        | [Megan Delatte-Guidry](mailto:mguidry@uri.edu)      |
+| Apr 24 |      EES     |[Dr. Bill DeLuca](https://www.audubon.org/people/william-deluca)           |   National Audubon Society               | [From Blackpoll Warblers to Waterbirds: A Full Annual Cycle Perspective on the Conservation of Migratory Birds](/content/IMG/DeLuca.pdf)           |  [Rebeca Linhart](mailto:rebecalinhart@uri.edu)|
+: Click the Speaker's Name and Talk Title for More Info
+{.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
+
+
+## Overview
+![BES](https://raw.githubusercontent.com/MarineEvoEcoLab/BES-Colloquium/main/content/IMG/BES_Logo.jpg)
+The M.S. and Ph.D. in Biological and Environmental Sciences (BES) are interdisciplinary, interdepartmental graduate degrees with faculty from multiple departments in the College of the Environment and Life Sciences (CELS), including Biological Sciences; Cell and Molecular Biology; Fisheries, Animal and Veterinary Science; Geosciences; Natural Resources Science; Nutrition and Food Sciences; and Plant Sciences; as well as faculty from the Graduate School of Oceanography.

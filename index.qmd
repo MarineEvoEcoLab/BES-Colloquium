@@ -8,27 +8,27 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 
 Seminars are intended for a general scientific audience but are free and open to all.
 
-## Spring 2026 Schedule
+## Fall 2026 Schedule
 
 **Time:** 3:00 PM
 **Location:** CBLS 010
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
-| Jan 23 |      All     |[BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Spring 2026 Welcome Event!  | N/A|
-| Jan 30 |      EMB/CMB |[Dr. Amanda Alker](https://alkerlab.weebly.com/team.html) | URI  | [A new frontier of genome editing technologies to elucidate marine bacteria-host interactions](/content/IMG/Alker.pdf) | N/A|
-| Feb 6  |      EMB/CMB |[Dr. Laura Eme](https://emelaura.com/)       | URI | [The origin of complex life](/content/IMG/Eme.pdf)                          |  N/A  |
-| Feb 13 |      CMB     |[Dr. Rachel Spurbeck](https://acs.digitellinc.com/b/sp/rachel-spurbeck-159185)                       | Battelle Memorial Institute                        | [Exposure Health: Biosurveillance, Diagnostics and Therapeutics](/content/IMG/Spurbeck.png)                                               |   [Maizy Pratt](mailto:maizy.pratt@uri.edu)   |
-| Feb 20 |      All     |[Dr. Leah Heilig](https://web.uri.edu/harrington/meet/leah-heilig/)                | URI               | [Embodiment and Positionality in Qualitative Work: Navigating Research Identity](/content/IMG/Heilig.png)                                          |   [Olivia Nieves](mailto:onieves@uri.edu)   |
-| Feb 27 |      TBA     |[Dr. Madison Armstrong](https://madisonarmstrong.me)   | Northeastern University                        | [Evolutionary Implications of Urbanization on a Coastal Marine Invertebrate](/content/IMG/Armstrong.pdf)                  |   [Dalia Bercow](mailto:dalia.bercow@uri.edu)    |
-| Mar 06 |      EVES    |[Dr. Karyn Rogers](https://faculty.rpi.edu/karyn-rogers)                 | Rensselaer Polytechnic Institute                      | [Constructing life from the ground up](/content/IMG/Rogers.jpg)| [Cybele Collins](mailto:crcollins@uri.edu)     |
-| Mar 13 |      EES     |[Dr. Frank Fish]( https://wcupa.edu/sciences-mathematics/biology/fFish/default.aspx)        | West Chester University                        | [Marine animals as a source of biological and technological innovation](/content/IMG/Fish.pdf)                       |  [Ariel Leahy](mailto:ariel.leahy@uri.edu)    |
-| Mar 20 |      NA    |   N/A |        N/A            | Spring Break        |      |
-| Mar 27 |      SAFS    |[Dr. Li Zhang](https://www.amherst.edu/people/facstaff/lzhang)                              | Amherst College        |   [Defying Slow Death: Unsafe Food, Environmental Governance and Quiet Social Movement in China](/content/IMG/Zhang.pdf)      |  [Sheriff Aliu](mailto:saliu@uri.edu)    |
-| Apr 3  |      EES     |[Dr. Tom Bell ](https://www.tomwbell.net/about.html)                          | WHOI               |   [Disentangling the effects of physical and demographic drivers on the dynamics of coastal foundation species](/content/IMG/Bell.pdf)      | [Maja Nielsen](mailto:maja.nielsen@uri.edu)     |
-| Apr 10 |      All     |[Dr. Dee Silverthorn](https://dellmed.utexas.edu/directory/dee-silverthorn)                | UT Austin                      |   [The importance of competency-based education](/content/IMG/Silverthorn.pdf)     | [Jamie Puleo](mailto:jamie_puleo@uri.edu)     |
-| Apr 17 |      EMB     |[Dr. Matthew Gray](https://science.umces.edu/graylab/)   |       UMCES Horn Point            | [Are brooding oysters ‘winners’ under climate change?](/content/IMG/Gray.pdf)        | [Megan Delatte-Guidry](mailto:mguidry@uri.edu)      |
-| Apr 24 |      EES     |[Dr. Bill DeLuca](https://www.audubon.org/people/william-deluca)           |   National Audubon Society               | [From Blackpoll Warblers to Waterbirds: A Full Annual Cycle Perspective on the Conservation of Migratory Birds](/content/IMG/DeLuca.pdf)           |  [Rebeca Linhart](mailto:rebecalinhart@uri.edu)|
+| Sep 11 |      N/A     |   None  |        N/A            | No Colloquium because of BES Retreat        |      |
+| Sep 18 |      All     |[BES Grad Reps](https://web.uri.edu/cels/academics/bes/) | URI  | Introduction and Community Building  | N/A|
+| Sep 25 |      SAFS    |[Dr. Rachel Hestrin](https://www.umass.edu/plant-biology/about/directory/rachel-hestrin) | UMass Amherst | [TBA](https://www.umass.edu/plant-biology/about/directory/rachel-hestrin) | [Lola Thompson](mailto:omolola.thompson@uri.edu) |
+| Oct 2  |      EMB     |[Dr. Wendy Puryear](https://sites.tufts.edu/sealviralecology/author/wpurye01/) | Tufts University | [TBA](https://sites.tufts.edu/sealviralecology/author/wpurye01/) | [Niel Bauer](mailto:niel.bauer@uri.edu) |
+| Oct 9  |      EES     |[Sarah Godfrey](https://www.linkedin.com/in/sarah-godfrey-7499863/) | Roger Williams University / Map the Point | [TBA](https://www.linkedin.com/in/sarah-godfrey-7499863/) | [Benjamin Charo](mailto:bencharo@uri.edu) |
+| Oct 16 |      CMB     |[Dr. Vincent Cannataro](https://vcannataro.com/) | Emmanuel College | [TBA](https://vcannataro.com/) | [Gift Asefon](mailto:gift.asefon@uri.edu) |
+| Oct 23 |      EES/EVES|[Dr. Serena Moseman-Valtierra](https://mosemanvaltierralab.weebly.com/) | URI | [TBA](https://mosemanvaltierralab.weebly.com/) | [Dr. Serena Moseman-Valtierra](mailto:smoseman@uri.edu) |
+| Oct 30 |      SAFS    |[Dr. Byron Chaves](https://foodsci.rutgers.edu/faculty/Chaves/) | Rutgers University | [TBA](https://foodsci.rutgers.edu/faculty/Chaves/) | [Terpase Gbaa](mailto:terpase.gbaa@uri.edu) |
+| Nov 6  |      EVES    |[Dr. Julia Guimond](https://www2.whoi.edu/staff/jguimond/) | WHOI | [TBA](https://www2.whoi.edu/staff/jguimond/) | [Md Al Amin](mailto:alamin45@uri.edu) |
+| Nov 13 |      EMB     |[Meredith White](https://www.linkedin.com/in/meredith-white-9565b3a1/) | Atlantic Aqua Farms | [TBA](https://www.linkedin.com/in/meredith-white-9565b3a1/) | [Dalia Bercow](mailto:dalia.bercow@uri.edu) |
+| Nov 20 |      EES     |[Dr. Evan Preisser](https://web.uri.edu/preisserlab/) | URI | [TBA](https://web.uri.edu/preisserlab/) | [Dr. Evan Preisser](mailto:preisser@uri.edu) |
+| Nov 27 |      N/A     |   N/A   |        N/A            | Thanksgiving Holiday        |      |
+| Dec 4  |      EES     |[Dr. Loren Hayes](https://www.utc.edu/directory/mwt229-biology-geology-and-environmental-science-loren-hayes/mwt229) | University of Tennessee at Chattanooga | [TBA](https://www.utc.edu/directory/mwt229-biology-geology-and-environmental-science-loren-hayes/mwt229) | [Emilio Pedroza Lopez](mailto:emilio.pedrozalopez@uri.edu) |
+| Dec 11 |      EMB     |[Dr. Diego Rivera Gelsinger](https://www.linkedin.com/in/diego-rivera-gelsinger-3461094b/) | UCLA | [TBA](https://www.linkedin.com/in/diego-rivera-gelsinger-3461094b/) | [Molly Hardwick](mailto:molly.hardwick@uri.edu) |
 : Click the Speaker's Name and Talk Title for More Info {.striped .hover tbl-colwidths="[10,10,15,10,40,15]"}
 
 
