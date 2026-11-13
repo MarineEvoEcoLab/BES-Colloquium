@@ -28,6 +28,9 @@ website:
       - icon: globe
         href: https://web.uri.edu/cels/academics/bes/
         text: "URI BES Program"
+      - icon: envelope
+        href: https://groups.google.com/a/uri.edu/g/bes-communications-group
+        text: "Subscribe to Colloquium announcements"
 #      - icon: github
 #        href: https://github.com/nmfs-opensci
 #        text: "NMFS OpenSci"

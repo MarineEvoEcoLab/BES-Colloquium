@@ -8,17 +8,11 @@ The BES Colloquium Series is the research seminar series for the [College of Env
 
 Seminars are intended for a general scientific audience but are free and open to all.
 
-::: {.callout-tip icon=false}
-## Get Colloquium announcements by email
-Weekly talk announcements are sent to the BES communications list.
-
-[Subscribe](https://groups.google.com/a/uri.edu/g/bes-communications-group){.btn .btn-primary .btn-sm target="_blank"}
-:::
-
 ## Fall 2026 Schedule
 
 **Time:** 3:00 PM
 **Location:** CBLS 010
+**Announcements:** [Subscribe by email](https://groups.google.com/a/uri.edu/g/bes-communications-group){target="_blank"}
 
 | Date  | Specialization | Speaker                  | Speaker's Affiliation                          | Talk Title                   | Host |
 |----|-----|--------------------|----------------------|----------------------------------------------------------------------| ----|
